@@ -1,0 +1,2164 @@
+{
+  "gradle.properties": {
+    "num of revisions": 2,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "2c6fb6c54472e90ae17439e62540ef3cb0426fe3": {
+        "changed lines": 2
+      },
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "streams\\quickstart\\java\\pom.xml": {
+    "num of revisions": 2,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "2c6fb6c54472e90ae17439e62540ef3cb0426fe3": {
+        "changed lines": 2
+      },
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "streams\\quickstart\\java\\src\\main\\resources\\archetype-resources\\pom.xml": {
+    "num of revisions": 2,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "2c6fb6c54472e90ae17439e62540ef3cb0426fe3": {
+        "changed lines": 2
+      },
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "streams\\quickstart\\pom.xml": {
+    "num of revisions": 2,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "2c6fb6c54472e90ae17439e62540ef3cb0426fe3": {
+        "changed lines": 2
+      },
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "tests\\kafkatest\\__init__.py": {
+    "num of revisions": 2,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "2c6fb6c54472e90ae17439e62540ef3cb0426fe3": {
+        "changed lines": 2
+      },
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "docs\\js\\templateData.js": {
+    "num of revisions": 1,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "kafka-merge-pr.py": {
+    "num of revisions": 1,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 2
+      }
+    }
+  },
+  "tests\\kafkatest\\version.py": {
+    "num of revisions": 3,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 3,
+        "removed": 2,
+        "total": 5
+      },
+      "Matthias J. Sax": {
+        "added": 13,
+        "removed": 8,
+        "total": 21
+      }
+    },
+    "revisions": {
+      "9f9cfbd6fabfb50cd4e9dacb4e8b9d88265f91e6": {
+        "changed lines": 5
+      },
+      "1fc067ff2eac580452f859bddb2f8b29b64cd2e1": {
+        "changed lines": 15
+      },
+      "d260329056c6c89920255d71a6773dcdd2c1039d": {
+        "changed lines": 6
+      }
+    }
+  },
+  "connect\\api\\src\\main\\java\\org\\apache\\kafka\\connect\\sink\\SinkRecord.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "b7dc50b659f7f1d5cd0fc3b2dded6115841be70c": {
+        "changed lines": 2
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\InternalSinkRecord.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 1,
+        "removed": 2,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "b7dc50b659f7f1d5cd0fc3b2dded6115841be70c": {
+        "changed lines": 3
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\InternalSinkRecordTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 44,
+        "removed": 0,
+        "total": 44
+      }
+    },
+    "revisions": {
+      "b7dc50b659f7f1d5cd0fc3b2dded6115841be70c": {
+        "changed lines": 44
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\AbstractWorkerSourceTask.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 7,
+        "removed": 1,
+        "total": 8
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 8
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\ExactlyOnceWorkerSourceTask.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 6,
+        "removed": 2,
+        "total": 8
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 8
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\Worker.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 5,
+        "removed": 6,
+        "total": 11
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 11
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\WorkerSinkTask.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 9,
+        "removed": 3,
+        "total": 12
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 12
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\WorkerSourceTask.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 6,
+        "removed": 2,
+        "total": 8
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 8
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\AbstractWorkerSourceTaskTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 33,
+        "removed": 5,
+        "total": 38
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 38
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\ErrorHandlingTaskTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 28,
+        "removed": 30,
+        "total": 58
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 58
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\ExactlyOnceWorkerSourceTaskTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 2
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\WorkerSinkTaskTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 57,
+        "removed": 9,
+        "total": 66
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 66
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\WorkerSinkTaskThreadedTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 2,
+        "removed": 1,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 3
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\WorkerSourceTaskTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "3f7c0c83d6f761a49d12d182beec9c416ac96012": {
+        "changed lines": 2
+      }
+    }
+  },
+  "docs\\ops.html": {
+    "num of revisions": 3,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 12,
+        "removed": 13,
+        "total": 25
+      },
+      "atu-sharm": {
+        "added": 4,
+        "removed": 4,
+        "total": 8
+      },
+      "Federico Valeri": {
+        "added": 2,
+        "removed": 1,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "9fc01628b53217f8946020eaf0acfd2a1649a6a6": {
+        "changed lines": 25
+      },
+      "67032b8ecfa00a9b403045ce3f1219755365a9d2": {
+        "changed lines": 8
+      },
+      "e28c1befc3cefc9f918565ebe6317c54f4ed8122": {
+        "changed lines": 3
+      }
+    }
+  },
+  "docs\\toc.html": {
+    "num of revisions": 2,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 1,
+        "removed": 0,
+        "total": 1
+      },
+      "Yash Mayya": {
+        "added": 8,
+        "removed": 0,
+        "total": 8
+      }
+    },
+    "revisions": {
+      "9fc01628b53217f8946020eaf0acfd2a1649a6a6": {
+        "changed lines": 1
+      },
+      "fb85e9d4aafa3cc079d9fd7a4e0ac751ab9ac088": {
+        "changed lines": 8
+      }
+    }
+  },
+  "build.gradle": {
+    "num of revisions": 5,
+    "authors": {
+      "Said Boudjelda": {
+        "added": 6,
+        "removed": 6,
+        "total": 12
+      },
+      "Mickael Maison": {
+        "added": 28,
+        "removed": 14,
+        "total": 42
+      },
+      "Greg Harris": {
+        "added": 4,
+        "removed": 12,
+        "total": 16
+      }
+    },
+    "revisions": {
+      "eada8846cc13a35b3b95b1b8bf2485ded50aec6e": {
+        "changed lines": 12
+      },
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 14
+      },
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 14
+      },
+      "a6a893796e695e09e87ce36d883b0efcba3e99ba": {
+        "changed lines": 16
+      },
+      "ad925d2582f9aea638b7b8952764ce3976a6b87c": {
+        "changed lines": 14
+      }
+    }
+  },
+  "core\\src\\main\\scala\\kafka\\server\\ZkAdminManager.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "sciclon2": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "48ba000678b76d8698c6db5d84752816f70be6b5": {
+        "changed lines": 2
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\server\\AlterUserScramCredentialsRequestTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "sciclon2": {
+        "added": 32,
+        "removed": 20,
+        "total": 52
+      }
+    },
+    "revisions": {
+      "48ba000678b76d8698c6db5d84752816f70be6b5": {
+        "changed lines": 52
+      }
+    }
+  },
+  "core\\src\\test\\scala\\integration\\kafka\\zk\\ZkMigrationIntegrationTest.scala": {
+    "num of revisions": 4,
+    "authors": {
+      "David Arthur": {
+        "added": 56,
+        "removed": 38,
+        "total": 94
+      },
+      "Luke Chen": {
+        "added": 1,
+        "removed": 2,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "b5d7a4a6154c30463c6c41f89bce5c23c36d0809": {
+        "changed lines": 25
+      },
+      "319dc61de79927288c9d13cede8456c14e5702a0": {
+        "changed lines": 10
+      },
+      "3e5ec6fd7171fdfc479da0d9cc8f59f012e6d73f": {
+        "changed lines": 59
+      },
+      "79de845bd55b153cabcc54f0f2e9fc688f36d5d7": {
+        "changed lines": 3
+      }
+    }
+  },
+  "metadata\\src\\main\\java\\org\\apache\\kafka\\metadata\\migration\\KRaftMigrationDriver.java": {
+    "num of revisions": 1,
+    "authors": {
+      "David Arthur": {
+        "added": 22,
+        "removed": 14,
+        "total": 36
+      }
+    },
+    "revisions": {
+      "b5d7a4a6154c30463c6c41f89bce5c23c36d0809": {
+        "changed lines": 36
+      }
+    }
+  },
+  "metadata\\src\\test\\java\\org\\apache\\kafka\\metadata\\migration\\KRaftMigrationDriverTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "David Arthur": {
+        "added": 51,
+        "removed": 0,
+        "total": 51
+      }
+    },
+    "revisions": {
+      "b5d7a4a6154c30463c6c41f89bce5c23c36d0809": {
+        "changed lines": 51
+      }
+    }
+  },
+  "docs\\streams\\developer-guide\\config-streams.html": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "31cec6fd55b1a280abac4a31d725508ac2667367": {
+        "changed lines": 2
+      }
+    }
+  },
+  "raft\\src\\main\\java\\org\\apache\\kafka\\snapshot\\FileRawSnapshotWriter.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 3,
+        "removed": 0,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "0e739901887b5a0195e274a1085c7de43d9c104b": {
+        "changed lines": 3
+      }
+    }
+  },
+  "server-common\\src\\main\\java\\org\\apache\\kafka\\timeline\\SnapshottableHashTable.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Colin Patrick McCabe": {
+        "added": 4,
+        "removed": 2,
+        "total": 6
+      }
+    },
+    "revisions": {
+      "1440e16f22ae0d0dd9369c8269381fe7652faedc": {
+        "changed lines": 6
+      }
+    }
+  },
+  "server-common\\src\\test\\java\\org\\apache\\kafka\\timeline\\SnapshottableHashTableTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Colin Patrick McCabe": {
+        "added": 15,
+        "removed": 0,
+        "total": 15
+      }
+    },
+    "revisions": {
+      "1440e16f22ae0d0dd9369c8269381fe7652faedc": {
+        "changed lines": 15
+      }
+    }
+  },
+  "raft\\src\\main\\java\\org\\apache\\kafka\\raft\\ElectionState.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 5,
+        "removed": 1,
+        "total": 6
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 6
+      }
+    }
+  },
+  "raft\\src\\main\\java\\org\\apache\\kafka\\raft\\KafkaRaftClient.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 39,
+        "removed": 10,
+        "total": 49
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 49
+      }
+    }
+  },
+  "raft\\src\\main\\java\\org\\apache\\kafka\\raft\\LeaderState.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 2,
+        "removed": 3,
+        "total": 5
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 5
+      }
+    }
+  },
+  "raft\\src\\main\\java\\org\\apache\\kafka\\raft\\QuorumState.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 1,
+        "removed": 2,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 3
+      }
+    }
+  },
+  "raft\\src\\test\\java\\org\\apache\\kafka\\raft\\KafkaRaftClientSnapshotTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 32,
+        "removed": 0,
+        "total": 32
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 32
+      }
+    }
+  },
+  "raft\\src\\test\\java\\org\\apache\\kafka\\raft\\KafkaRaftClientTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 30,
+        "removed": 0,
+        "total": 30
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 30
+      }
+    }
+  },
+  "raft\\src\\test\\java\\org\\apache\\kafka\\raft\\MockLog.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 40,
+        "removed": 14,
+        "total": 54
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 54
+      }
+    }
+  },
+  "raft\\src\\test\\java\\org\\apache\\kafka\\raft\\RaftClientTestContext.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 2,
+        "removed": 6,
+        "total": 8
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 8
+      }
+    }
+  },
+  "raft\\src\\test\\java\\org\\apache\\kafka\\raft\\RaftEventSimulationTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Jos\u00e9 Armando Garc\u00eda Sancio": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "24d2c2d2e25cbdaa6b1b6ba19403287709f81682": {
+        "changed lines": 2
+      }
+    }
+  },
+  "connect\\mirror\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\TestUtils.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 36,
+        "removed": 6,
+        "total": 42
+      }
+    },
+    "revisions": {
+      "1c568069329a392c22932786925e8489018e00fe": {
+        "changed lines": 42
+      }
+    }
+  },
+  "connect\\mirror\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\integration\\MirrorConnectorsIntegrationBaseTest.java": {
+    "num of revisions": 2,
+    "authors": {
+      "Greg Harris": {
+        "added": 67,
+        "removed": 60,
+        "total": 127
+      }
+    },
+    "revisions": {
+      "1c568069329a392c22932786925e8489018e00fe": {
+        "changed lines": 114
+      },
+      "7e3f1c198dbc79a3e576bbd89b70efc2409c4db8": {
+        "changed lines": 13
+      }
+    }
+  },
+  "connect\\mirror\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\integration\\MirrorConnectorsIntegrationTransactionsTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 19,
+        "removed": 17,
+        "total": 36
+      }
+    },
+    "revisions": {
+      "1c568069329a392c22932786925e8489018e00fe": {
+        "changed lines": 36
+      }
+    }
+  },
+  "connect\\mirror\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\integration\\MirrorConnectorsWithCustomForwardingAdminIntegrationTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 6,
+        "removed": 6,
+        "total": 12
+      }
+    },
+    "revisions": {
+      "1c568069329a392c22932786925e8489018e00fe": {
+        "changed lines": 12
+      }
+    }
+  },
+  "connect\\mirror\\src\\main\\java\\org\\apache\\kafka\\connect\\mirror\\OffsetSyncStore.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 40,
+        "removed": 21,
+        "total": 61
+      }
+    },
+    "revisions": {
+      "34a30fff5769bae55f978631e7a44f59631ee8a6": {
+        "changed lines": 61
+      }
+    }
+  },
+  "connect\\mirror\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\OffsetSyncStoreTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 76,
+        "removed": 19,
+        "total": 95
+      }
+    },
+    "revisions": {
+      "34a30fff5769bae55f978631e7a44f59631ee8a6": {
+        "changed lines": 95
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\kstream\\KStream.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Florin Akermann": {
+        "added": 16,
+        "removed": 32,
+        "total": 48
+      }
+    },
+    "revisions": {
+      "12fc0d04d71d29aec13ca0d41ee35c905e8b03c0": {
+        "changed lines": 48
+      }
+    }
+  },
+  "connect\\mirror-client\\src\\main\\java\\org\\apache\\kafka\\connect\\mirror\\DefaultReplicationPolicy.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Omnia G.H Ibrahim": {
+        "added": 17,
+        "removed": 3,
+        "total": 20
+      }
+    },
+    "revisions": {
+      "abd1c8e46fc413f8cb8d2d07a80ee74eaf5d9708": {
+        "changed lines": 20
+      }
+    }
+  },
+  "connect\\mirror-client\\src\\main\\java\\org\\apache\\kafka\\connect\\mirror\\MirrorClientConfig.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Omnia G.H Ibrahim": {
+        "added": 14,
+        "removed": 0,
+        "total": 14
+      }
+    },
+    "revisions": {
+      "abd1c8e46fc413f8cb8d2d07a80ee74eaf5d9708": {
+        "changed lines": 14
+      }
+    }
+  },
+  "connect\\mirror-client\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\ReplicationPolicyTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Omnia G.H Ibrahim": {
+        "added": 53,
+        "removed": 0,
+        "total": 53
+      }
+    },
+    "revisions": {
+      "abd1c8e46fc413f8cb8d2d07a80ee74eaf5d9708": {
+        "changed lines": 53
+      }
+    }
+  },
+  "connect\\mirror\\src\\main\\java\\org\\apache\\kafka\\connect\\mirror\\MirrorConnectorConfig.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Omnia G.H Ibrahim": {
+        "added": 11,
+        "removed": 0,
+        "total": 11
+      }
+    },
+    "revisions": {
+      "abd1c8e46fc413f8cb8d2d07a80ee74eaf5d9708": {
+        "changed lines": 11
+      }
+    }
+  },
+  "core\\src\\main\\scala\\kafka\\zk\\ZkMigrationClient.scala": {
+    "num of revisions": 2,
+    "authors": {
+      "David Arthur": {
+        "added": 4,
+        "removed": 2,
+        "total": 6
+      }
+    },
+    "revisions": {
+      "a9ccb8562eeed6dd287c138796afdc0603daed3b": {
+        "changed lines": 4
+      },
+      "3e5ec6fd7171fdfc479da0d9cc8f59f012e6d73f": {
+        "changed lines": 2
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\zk\\migration\\ZkConfigMigrationClientTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "David Arthur": {
+        "added": 12,
+        "removed": 1,
+        "total": 13
+      }
+    },
+    "revisions": {
+      "a9ccb8562eeed6dd287c138796afdc0603daed3b": {
+        "changed lines": 13
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\StreamsConfig.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 36,
+        "removed": 50,
+        "total": 86
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 86
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\internals\\UpgradeFromValues.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 53,
+        "removed": 0,
+        "total": 53
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 53
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\kstream\\internals\\ChangedSerializer.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 23,
+        "removed": 21,
+        "total": 44
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 44
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\kstream\\internals\\KTableRepartitionMap.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 23,
+        "removed": 21,
+        "total": 44
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 44
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\kstream\\internals\\foreignkeyjoin\\SubscriptionWrapperSerde.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 22,
+        "removed": 20,
+        "total": 42
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 42
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\processor\\internals\\assignment\\AssignorConfiguration.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 47,
+        "removed": 40,
+        "total": 87
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 87
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\StreamsConfigTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 13,
+        "removed": 0,
+        "total": 13
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 13
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\processor\\internals\\assignment\\AssignorConfigurationTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 43,
+        "removed": 0,
+        "total": 43
+      }
+    },
+    "revisions": {
+      "714b4ebeeb9a87c9f121b24eeacf38f377a9b60a": {
+        "changed lines": 43
+      }
+    }
+  },
+  "clients\\src\\main\\java\\org\\apache\\kafka\\common\\utils\\Utils.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Okada Haruki": {
+        "added": 13,
+        "removed": 0,
+        "total": 13
+      }
+    },
+    "revisions": {
+      "fffbab7951eb375927e53fc5b57580354c24fb8c": {
+        "changed lines": 13
+      }
+    }
+  },
+  "core\\src\\main\\scala\\kafka\\log\\LocalLog.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "Okada Haruki": {
+        "added": 5,
+        "removed": 2,
+        "total": 7
+      }
+    },
+    "revisions": {
+      "fffbab7951eb375927e53fc5b57580354c24fb8c": {
+        "changed lines": 7
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\log\\LocalLogTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "Okada Haruki": {
+        "added": 16,
+        "removed": 0,
+        "total": 16
+      }
+    },
+    "revisions": {
+      "fffbab7951eb375927e53fc5b57580354c24fb8c": {
+        "changed lines": 16
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\AbstractHerder.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "3b9c3da97847518c57863cbff8a9bef2fd1f7ada": {
+        "changed lines": 2
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\standalone\\StandaloneHerder.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "3b9c3da97847518c57863cbff8a9bef2fd1f7ada": {
+        "changed lines": 2
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\distributed\\DistributedHerderTest.java": {
+    "num of revisions": 2,
+    "authors": {
+      "Yash Mayya": {
+        "added": 7,
+        "removed": 0,
+        "total": 7
+      },
+      "Chris Egerton": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "3b9c3da97847518c57863cbff8a9bef2fd1f7ada": {
+        "changed lines": 7
+      },
+      "3c8ca01cefb4bbaec787b716cd929e4e7da1b512": {
+        "changed lines": 2
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\standalone\\StandaloneHerderTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Yash Mayya": {
+        "added": 9,
+        "removed": 0,
+        "total": 9
+      }
+    },
+    "revisions": {
+      "3b9c3da97847518c57863cbff8a9bef2fd1f7ada": {
+        "changed lines": 9
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\distributed\\DistributedConfigTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 9,
+        "removed": 2,
+        "total": 11
+      }
+    },
+    "revisions": {
+      "0492a3bc87abf89462eddff0ace62eaad54612fa": {
+        "changed lines": 11
+      }
+    }
+  },
+  "clients\\src\\main\\java\\org\\apache\\kafka\\common\\requests\\AlterPartitionRequest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Calvin Liu": {
+        "added": 10,
+        "removed": 6,
+        "total": 16
+      }
+    },
+    "revisions": {
+      "6f55160175a270f4c7f32c5673775c1e6e9a2d43": {
+        "changed lines": 16
+      }
+    }
+  },
+  "clients\\src\\test\\java\\org\\apache\\kafka\\common\\requests\\AlterPartitionRequestTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Calvin Liu": {
+        "added": 13,
+        "removed": 0,
+        "total": 13
+      }
+    },
+    "revisions": {
+      "6f55160175a270f4c7f32c5673775c1e6e9a2d43": {
+        "changed lines": 13
+      }
+    }
+  },
+  "core\\src\\main\\scala\\kafka\\log\\LogManager.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "Vincent Jiang": {
+        "added": 24,
+        "removed": 5,
+        "total": 29
+      }
+    },
+    "revisions": {
+      "c252e930fb7294cfba987e5826ff6a0c1eabb500": {
+        "changed lines": 29
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\log\\LogManagerTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "Vincent Jiang": {
+        "added": 53,
+        "removed": 0,
+        "total": 53
+      }
+    },
+    "revisions": {
+      "c252e930fb7294cfba987e5826ff6a0c1eabb500": {
+        "changed lines": 53
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\processor\\internals\\StreamsPartitionAssignor.java": {
+    "num of revisions": 2,
+    "authors": {
+      "A. Sophie Blee-Goldman": {
+        "added": 32,
+        "removed": 20,
+        "total": 52
+      },
+      "Lucas Brutschy": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "1966f51d6212a1e4efa14003ad1c708b35d7b0db": {
+        "changed lines": 52
+      },
+      "8f7310eab6cb73da6d8ab4893354bf945be78ed0": {
+        "changed lines": 2
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\processor\\internals\\assignment\\ClientState.java": {
+    "num of revisions": 1,
+    "authors": {
+      "A. Sophie Blee-Goldman": {
+        "added": 5,
+        "removed": 1,
+        "total": 6
+      }
+    },
+    "revisions": {
+      "1966f51d6212a1e4efa14003ad1c708b35d7b0db": {
+        "changed lines": 6
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\processor\\internals\\StreamsPartitionAssignorTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "A. Sophie Blee-Goldman": {
+        "added": 54,
+        "removed": 0,
+        "total": 54
+      }
+    },
+    "revisions": {
+      "1966f51d6212a1e4efa14003ad1c708b35d7b0db": {
+        "changed lines": 54
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\processor\\internals\\StreamThread.java": {
+    "num of revisions": 2,
+    "authors": {
+      "Rohan": {
+        "added": 6,
+        "removed": 2,
+        "total": 8
+      },
+      "Lucas Brutschy": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "ea206a3d36770d94289f6e6e6113c50c267791ae": {
+        "changed lines": 8
+      },
+      "f682ecf9db63b4944a09eb05ad2a31b8d2510767": {
+        "changed lines": 4
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\processor\\internals\\StreamsProducer.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Rohan": {
+        "added": 3,
+        "removed": 2,
+        "total": 5
+      }
+    },
+    "revisions": {
+      "9a818d2ca743379e65c68959ab526266c963a88f": {
+        "changed lines": 5
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\processor\\internals\\StreamsProducerTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Rohan": {
+        "added": 28,
+        "removed": 0,
+        "total": 28
+      }
+    },
+    "revisions": {
+      "9a818d2ca743379e65c68959ab526266c963a88f": {
+        "changed lines": 28
+      }
+    }
+  },
+  "docs\\connect.html": {
+    "num of revisions": 2,
+    "authors": {
+      "Yash Mayya": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      },
+      "Chris Egerton": {
+        "added": 5,
+        "removed": 0,
+        "total": 5
+      }
+    },
+    "revisions": {
+      "fb85e9d4aafa3cc079d9fd7a4e0ac751ab9ac088": {
+        "changed lines": 4
+      },
+      "b8cf3e31747f7193024c36f3381c0dd5bd22158c": {
+        "changed lines": 5
+      }
+    }
+  },
+  "core\\src\\main\\scala\\kafka\\server\\KafkaConfig.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "David Arthur": {
+        "added": 1,
+        "removed": 0,
+        "total": 1
+      }
+    },
+    "revisions": {
+      "6bc36eaf2370a077ebfe2ccbc55aa2d0bceae020": {
+        "changed lines": 1
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\server\\KafkaConfigTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "David Arthur": {
+        "added": 12,
+        "removed": 0,
+        "total": 12
+      }
+    },
+    "revisions": {
+      "6bc36eaf2370a077ebfe2ccbc55aa2d0bceae020": {
+        "changed lines": 12
+      }
+    }
+  },
+  "clients\\src\\main\\java\\org\\apache\\kafka\\common\\security\\ssl\\SslFactory.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Manikumar Reddy": {
+        "added": 36,
+        "removed": 22,
+        "total": 58
+      }
+    },
+    "revisions": {
+      "51a7acda25ce6f6939dee299587661bec4411557": {
+        "changed lines": 58
+      }
+    }
+  },
+  "clients\\src\\test\\java\\org\\apache\\kafka\\common\\security\\ssl\\SslFactoryTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Manikumar Reddy": {
+        "added": 22,
+        "removed": 7,
+        "total": 29
+      }
+    },
+    "revisions": {
+      "51a7acda25ce6f6939dee299587661bec4411557": {
+        "changed lines": 29
+      }
+    }
+  },
+  "clients\\src\\test\\java\\org\\apache\\kafka\\test\\TestSslUtils.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Manikumar Reddy": {
+        "added": 193,
+        "removed": 0,
+        "total": 193
+      }
+    },
+    "revisions": {
+      "51a7acda25ce6f6939dee299587661bec4411557": {
+        "changed lines": 193
+      }
+    }
+  },
+  "LICENSE-binary": {
+    "num of revisions": 4,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 10,
+        "removed": 10,
+        "total": 20
+      },
+      "Luke Chen": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      },
+      "Lucas Brutschy": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "00a1b9f769aecb78cf208ef2351dd328b47d0c7f": {
+        "changed lines": 20
+      },
+      "0cadf0db714a5f0bea52e160217198c1233cf0a1": {
+        "changed lines": 2
+      },
+      "b3b457bf1ba272aed730c6b78cba38480cd2e5eb": {
+        "changed lines": 2
+      },
+      "9e10f8959aece8dd259c9e8e1994ce7dc3bd6fa4": {
+        "changed lines": 2
+      }
+    }
+  },
+  "gradle\\dependencies.gradle": {
+    "num of revisions": 7,
+    "authors": {
+      "Divij Vaidya": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      },
+      "Luke Chen": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      },
+      "Mickael Maison": {
+        "added": 4,
+        "removed": 2,
+        "total": 6
+      },
+      "Lucas Brutschy": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "00a1b9f769aecb78cf208ef2351dd328b47d0c7f": {
+        "changed lines": 2
+      },
+      "0cadf0db714a5f0bea52e160217198c1233cf0a1": {
+        "changed lines": 2
+      },
+      "b3b457bf1ba272aed730c6b78cba38480cd2e5eb": {
+        "changed lines": 2
+      },
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 2
+      },
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 2
+      },
+      "ad925d2582f9aea638b7b8952764ce3976a6b87c": {
+        "changed lines": 2
+      },
+      "9e10f8959aece8dd259c9e8e1994ce7dc3bd6fa4": {
+        "changed lines": 2
+      }
+    }
+  },
+  "tests\\docker\\Dockerfile": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 8,
+        "removed": 8,
+        "total": 16
+      }
+    },
+    "revisions": {
+      "1fc067ff2eac580452f859bddb2f8b29b64cd2e1": {
+        "changed lines": 16
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\KafkaStreams.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Levani Kokhreidze": {
+        "added": 11,
+        "removed": 0,
+        "total": 11
+      }
+    },
+    "revisions": {
+      "c55e89a6003c0646f58611e60613afb6ad2ab77c": {
+        "changed lines": 11
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\integration\\RestoreIntegrationTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Levani Kokhreidze": {
+        "added": 203,
+        "removed": 4,
+        "total": 207
+      }
+    },
+    "revisions": {
+      "c55e89a6003c0646f58611e60613afb6ad2ab77c": {
+        "changed lines": 207
+      }
+    }
+  },
+  "core\\src\\test\\scala\\integration\\kafka\\api\\ProducerCompressionTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "Luke Chen": {
+        "added": 54,
+        "removed": 9,
+        "total": 63
+      }
+    },
+    "revisions": {
+      "0cadf0db714a5f0bea52e160217198c1233cf0a1": {
+        "changed lines": 63
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\log\\LogCleanerParameterizedIntegrationTest.scala": {
+    "num of revisions": 1,
+    "authors": {
+      "Luke Chen": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "0cadf0db714a5f0bea52e160217198c1233cf0a1": {
+        "changed lines": 4
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\state\\internals\\metrics\\RocksDBMetricsRecorderGaugesTest.java": {
+    "num of revisions": 2,
+    "authors": {
+      "bachmanity1": {
+        "added": 6,
+        "removed": 13,
+        "total": 19
+      },
+      "Nick Telford": {
+        "added": 16,
+        "removed": 3,
+        "total": 19
+      }
+    },
+    "revisions": {
+      "0c90b6557eaae0b8036263ab907e2a6213ea82ea": {
+        "changed lines": 19
+      },
+      "ccdffd6e4fd97a4cdcdf5ef790684eeca8e32bf7": {
+        "changed lines": 19
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\state\\internals\\RocksDBTimestampedStore.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Nick Telford": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "ccdffd6e4fd97a4cdcdf5ef790684eeca8e32bf7": {
+        "changed lines": 2
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\state\\internals\\metrics\\RocksDBMetricsRecorder.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Nick Telford": {
+        "added": 2,
+        "removed": 2,
+        "total": 4
+      }
+    },
+    "revisions": {
+      "ccdffd6e4fd97a4cdcdf5ef790684eeca8e32bf7": {
+        "changed lines": 4
+      }
+    }
+  },
+  "streams\\src\\test\\java\\org\\apache\\kafka\\streams\\state\\internals\\metrics\\RocksDBBlockCacheMetricsTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Nick Telford": {
+        "added": 136,
+        "removed": 0,
+        "total": 136
+      }
+    },
+    "revisions": {
+      "ccdffd6e4fd97a4cdcdf5ef790684eeca8e32bf7": {
+        "changed lines": 136
+      }
+    }
+  },
+  "clients\\src\\main\\java\\org\\apache\\kafka\\clients\\consumer\\internals\\AbstractStickyAssignor.java": {
+    "num of revisions": 1,
+    "authors": {
+      "flashmouse": {
+        "added": 3,
+        "removed": 2,
+        "total": 5
+      }
+    },
+    "revisions": {
+      "8b4369c57384102d422f0a87e47b6e4f9e99fbe0": {
+        "changed lines": 5
+      }
+    }
+  },
+  "clients\\src\\test\\java\\org\\apache\\kafka\\clients\\consumer\\internals\\AbstractStickyAssignorTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "flashmouse": {
+        "added": 86,
+        "removed": 0,
+        "total": 86
+      }
+    },
+    "revisions": {
+      "8b4369c57384102d422f0a87e47b6e4f9e99fbe0": {
+        "changed lines": 86
+      }
+    }
+  },
+  "connect\\mirror\\src\\main\\java\\org\\apache\\kafka\\connect\\mirror\\MirrorCheckpointTask.java": {
+    "num of revisions": 1,
+    "authors": {
+      "hudeqi": {
+        "added": 14,
+        "removed": 5,
+        "total": 19
+      }
+    },
+    "revisions": {
+      "add9dc3340fde5c4bd74b1459e89309f51c233a0": {
+        "changed lines": 19
+      }
+    }
+  },
+  "connect\\mirror\\src\\test\\java\\org\\apache\\kafka\\connect\\mirror\\MirrorCheckpointTaskTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "hudeqi": {
+        "added": 27,
+        "removed": 0,
+        "total": 27
+      }
+    },
+    "revisions": {
+      "add9dc3340fde5c4bd74b1459e89309f51c233a0": {
+        "changed lines": 27
+      }
+    }
+  },
+  "tests\\kafkatest\\tests\\streams\\streams_upgrade_test.py": {
+    "num of revisions": 4,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 8,
+        "removed": 6,
+        "total": 14
+      },
+      "Mickael Maison": {
+        "added": 10,
+        "removed": 11,
+        "total": 21
+      }
+    },
+    "revisions": {
+      "d260329056c6c89920255d71a6773dcdd2c1039d": {
+        "changed lines": 14
+      },
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 9
+      },
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 6
+      },
+      "ad925d2582f9aea638b7b8952764ce3976a6b87c": {
+        "changed lines": 6
+      }
+    }
+  },
+  "settings.gradle": {
+    "num of revisions": 3,
+    "authors": {
+      "Mickael Maison": {
+        "added": 2,
+        "removed": 1,
+        "total": 3
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 1
+      },
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 1
+      },
+      "ad925d2582f9aea638b7b8952764ce3976a6b87c": {
+        "changed lines": 1
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-34\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\SmokeTestClient.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 299,
+        "removed": 0,
+        "total": 299
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 299
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-34\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\SmokeTestDriver.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 670,
+        "removed": 0,
+        "total": 670
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 670
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-34\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\SmokeTestUtil.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 131,
+        "removed": 0,
+        "total": 131
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 131
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-34\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\StreamsSmokeTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 100,
+        "removed": 0,
+        "total": 100
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 100
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-34\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\StreamsUpgradeTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 120,
+        "removed": 0,
+        "total": 120
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 120
+      }
+    }
+  },
+  "tests\\kafkatest\\tests\\streams\\streams_application_upgrade_test.py": {
+    "num of revisions": 3,
+    "authors": {
+      "Mickael Maison": {
+        "added": 7,
+        "removed": 7,
+        "total": 14
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 4
+      },
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 5
+      },
+      "ad925d2582f9aea638b7b8952764ce3976a6b87c": {
+        "changed lines": 5
+      }
+    }
+  },
+  "tests\\kafkatest\\tests\\streams\\streams_broker_compatibility_test.py": {
+    "num of revisions": 3,
+    "authors": {
+      "Mickael Maison": {
+        "added": 9,
+        "removed": 6,
+        "total": 15
+      }
+    },
+    "revisions": {
+      "303c86f7a5ca2736138b76476928abb22869dfe9": {
+        "changed lines": 5
+      },
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 5
+      },
+      "ad925d2582f9aea638b7b8952764ce3976a6b87c": {
+        "changed lines": 5
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-35\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\SmokeTestClient.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 299,
+        "removed": 0,
+        "total": 299
+      }
+    },
+    "revisions": {
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 299
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-35\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\SmokeTestDriver.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 670,
+        "removed": 0,
+        "total": 670
+      }
+    },
+    "revisions": {
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 670
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-35\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\SmokeTestUtil.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 131,
+        "removed": 0,
+        "total": 131
+      }
+    },
+    "revisions": {
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 131
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-35\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\StreamsSmokeTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 100,
+        "removed": 0,
+        "total": 100
+      }
+    },
+    "revisions": {
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 100
+      }
+    }
+  },
+  "streams\\upgrade-system-tests-35\\src\\test\\java\\org\\apache\\kafka\\streams\\tests\\StreamsUpgradeTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Mickael Maison": {
+        "added": 120,
+        "removed": 0,
+        "total": 120
+      }
+    },
+    "revisions": {
+      "d769f1dd87b8101f234e30bff9e86fd177943197": {
+        "changed lines": 120
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\state\\internals\\RocksDBGenericOptionsToDbOptionsColumnFamilyOptionsAdapter.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Lucas Brutschy": {
+        "added": 35,
+        "removed": 0,
+        "total": 35
+      }
+    },
+    "revisions": {
+      "9e10f8959aece8dd259c9e8e1994ce7dc3bd6fa4": {
+        "changed lines": 35
+      }
+    }
+  },
+  "tests\\setup.py": {
+    "num of revisions": 1,
+    "authors": {
+      "Lucas Brutschy": {
+        "added": 1,
+        "removed": 1,
+        "total": 2
+      }
+    },
+    "revisions": {
+      "9e10f8959aece8dd259c9e8e1994ce7dc3bd6fa4": {
+        "changed lines": 2
+      }
+    }
+  },
+  "streams\\src\\main\\java\\org\\apache\\kafka\\streams\\kstream\\internals\\KStreamSessionWindowAggregate.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 16,
+        "removed": 14,
+        "total": 30
+      }
+    },
+    "revisions": {
+      "749df0716318dee1d5fd7bf2daae4e9650c70a3a": {
+        "changed lines": 30
+      }
+    }
+  },
+  "clients\\src\\main\\java\\org\\apache\\kafka\\common\\serialization\\ByteBufferSerializer.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 15,
+        "removed": 19,
+        "total": 34
+      }
+    },
+    "revisions": {
+      "86d4022d488431f71e121609ae83f1672fd989a9": {
+        "changed lines": 34
+      }
+    }
+  },
+  "clients\\src\\test\\java\\org\\apache\\kafka\\common\\serialization\\SerializationTest.java": {
+    "num of revisions": 2,
+    "authors": {
+      "Matthias J. Sax": {
+        "added": 0,
+        "removed": 18,
+        "total": 18
+      }
+    },
+    "revisions": {
+      "86d4022d488431f71e121609ae83f1672fd989a9": {
+        "changed lines": 17
+      },
+      "c7eae56dfa17746bea242b81027208164ba66ae7": {
+        "changed lines": 1
+      }
+    }
+  },
+  "clients\\src\\main\\java\\org\\apache\\kafka\\common\\requests\\ProduceRequest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Xiaobing Fang": {
+        "added": 3,
+        "removed": 2,
+        "total": 5
+      }
+    },
+    "revisions": {
+      "5829fca0a7f65cd0b0c8f8afdb5a28124d4ae7b7": {
+        "changed lines": 5
+      }
+    }
+  },
+  "core\\src\\test\\scala\\unit\\kafka\\zk\\migration\\ZkMigrationClientTest.scala": {
+    "num of revisions": 2,
+    "authors": {
+      "David Arthur": {
+        "added": 24,
+        "removed": 20,
+        "total": 44
+      },
+      "Luke Chen": {
+        "added": 1,
+        "removed": 5,
+        "total": 6
+      }
+    },
+    "revisions": {
+      "3e5ec6fd7171fdfc479da0d9cc8f59f012e6d73f": {
+        "changed lines": 44
+      },
+      "79de845bd55b153cabcc54f0f2e9fc688f36d5d7": {
+        "changed lines": 6
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\distributed\\IncrementalCooperativeAssignor.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Chris Egerton": {
+        "added": 13,
+        "removed": 10,
+        "total": 23
+      }
+    },
+    "revisions": {
+      "3c8ca01cefb4bbaec787b716cd929e4e7da1b512": {
+        "changed lines": 23
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\runtime\\distributed\\WorkerCoordinator.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Chris Egerton": {
+        "added": 6,
+        "removed": 0,
+        "total": 6
+      }
+    },
+    "revisions": {
+      "3c8ca01cefb4bbaec787b716cd929e4e7da1b512": {
+        "changed lines": 6
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\runtime\\distributed\\IncrementalCooperativeAssignorTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Chris Egerton": {
+        "added": 77,
+        "removed": 0,
+        "total": 77
+      }
+    },
+    "revisions": {
+      "3c8ca01cefb4bbaec787b716cd929e4e7da1b512": {
+        "changed lines": 77
+      }
+    }
+  },
+  "connect\\runtime\\src\\main\\java\\org\\apache\\kafka\\connect\\storage\\OffsetUtils.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 7,
+        "removed": 1,
+        "total": 8
+      }
+    },
+    "revisions": {
+      "9aeaa5dc18ba9a4d6e9cf4a77c6e079e24b13a80": {
+        "changed lines": 8
+      }
+    }
+  },
+  "connect\\runtime\\src\\test\\java\\org\\apache\\kafka\\connect\\storage\\OffsetUtilsTest.java": {
+    "num of revisions": 1,
+    "authors": {
+      "Greg Harris": {
+        "added": 31,
+        "removed": 28,
+        "total": 59
+      }
+    },
+    "revisions": {
+      "9aeaa5dc18ba9a4d6e9cf4a77c6e079e24b13a80": {
+        "changed lines": 59
+      }
+    }
+  }
+}
